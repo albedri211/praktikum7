@@ -1,4 +1,7 @@
 # praktikum7
+# Nama : Muhammad Albedri
+# NIM : 312210290
+# kelas : TI 22 A3
 # tugas
 ![gambar1](ss/soal%20.jpg)
 # penjelasan
